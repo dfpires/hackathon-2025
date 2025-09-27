@@ -1,0 +1,19 @@
+O Uni-FACEF é o Centro Universitário Municipal de Franca. Oferece cursos de graduação como Ciência da Computação, Engenharia de Software, Sistemas de Informação, Psicologia, Enfermagem, Administração, entre outros.
+
+O período de matrícula dos veteranos ocorre geralmente entre os dias 20 e 31 de julho.
+
+O contato do Departamento de Computação é computacao@facef.br.
+
+O coordenador dos cursos de Ciência da Computação, Engenharia de Software e Sistemas de Informação é o Prof. Daniel F. Pires.
+
+As aulas são presenciais e o controle de presença é obrigatório.
+
+O sistema acadêmico utilizado é o Lyceum.
+
+O Prof. Geraldo é responsável pelas disciplinas de Banco de Dados
+
+As disciplinas de Inteligência Artificial são lecionadas pela Profa. Jaqueline
+
+O Prof. Roland dá aulas de IHC e Sistemas Operacionais
+
+A disciplina de Algoritmo e Lógica de Programação I é ministrada pelo Prof. Fábio
